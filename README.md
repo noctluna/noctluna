@@ -18,6 +18,6 @@
 
 </p>
 <p align="center">
-  <span style="color: #dab6b8;">[interests](https://rentry.co/anchor)</span>
+https://rentry.co/anchor
 <img src="https://i.postimg.cc/SQ2rXWc9/1234277831559876620.png" width="20" height="20"/>
 
